@@ -20,6 +20,6 @@ steps:
     location: 'Australia East'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/RussAzure/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName projpipeline'
+    overrideParameters: '-projectName projpipe'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
